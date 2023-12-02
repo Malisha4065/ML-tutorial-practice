@@ -7,3 +7,8 @@ Regression Algorithms:
 * Support Vector Regression (SVR)
 * Decision Tree Regression
 * Random Forest Regression
+
+Classification Algorithms:
+* Logistic Regression
+
+ENJOY!!!
