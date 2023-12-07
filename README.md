@@ -11,5 +11,6 @@ Regression Algorithms:
 Classification Algorithms:
 * Logistic Regression
 * K-NN
+* SVM
 
 ENJOY!!!
