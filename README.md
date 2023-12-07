@@ -12,5 +12,7 @@ Classification Algorithms:
 * Logistic Regression
 * K-NN
 * SVM
+* Kernel-SVM
+* Naive Bayes
 
 ENJOY!!!
