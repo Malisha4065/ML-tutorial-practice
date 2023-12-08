@@ -14,5 +14,7 @@ Classification Algorithms:
 * SVM
 * Kernel-SVM
 * Naive Bayes
+* Decision Tree Classification
+* Random Forest Classification
 
 ENJOY!!!
