@@ -18,6 +18,7 @@ Classification Algorithms:
 * Random Forest Classification
 
 Clustering Algorithms:
-* K-Means Algorithm
+* K-Means Clustering
+* Hierarchical Clustering
 
 ENJOY!!!
