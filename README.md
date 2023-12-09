@@ -17,4 +17,7 @@ Classification Algorithms:
 * Decision Tree Classification
 * Random Forest Classification
 
+Clustering Algorithms:
+* K-Means Algorithm
+
 ENJOY!!!
